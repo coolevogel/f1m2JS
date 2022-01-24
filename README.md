@@ -2,5 +2,5 @@
 ## javascript
 
 
-[opdracht 1 link:] (http://32825.hosts1.ma-cloud.nl/les1/)
-[opdracht 2 link:] (http://32825.hosts1.ma-cloud.nl/les2/)
+- [opdracht 1 link:] (http://32825.hosts1.ma-cloud.nl/les1/)
+- [opdracht 2 link:] (http://32825.hosts1.ma-cloud.nl/les2/)
