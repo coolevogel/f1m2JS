@@ -1,0 +1,81 @@
+*{
+    background: white;
+}
+body{
+    color: goldenrod;
+    
+    margin: 0 auto;
+}
+
+main{
+    max-width: 70vw;
+    margin: 0 auto;
+}
+header{
+    background: goldenrod;
+    display: flex;
+    height: 60px;
+    width: 100%;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+header > h1{
+    background: goldenrod;
+    color: white;
+}
+section{
+    margin-top: 90px;
+}
+
+button{
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 150px;
+    background: black;
+    margin-bottom: 10px;
+    border: none;
+    padding: 0;
+    border: 1px solid black;
+}
+button > a, button > a:hover{
+    color: white;
+    padding: 10px;
+    background: black;
+    text-decoration: none;
+}
+button > a:hover{
+    background-color: goldenrod;
+    color: black;
+    
+}
+footer{
+    background: goldenrod;
+    display: flex;
+    height: 60px;
+    width: 100%;
+    padding: 30px; 
+    flex-direction: column;
+    align-items: flex-start;
+    position: fixed;
+    bottom: 0;
+    
+    
+}
+footer > h1{
+    background: goldenrod;
+    color: white;
+}
+footer > h2{
+    background: goldenrod;
+    color: white;
+}
+footer> a{
+    background: goldenrod;
+    color: white;
+
+}
